@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+body{
+    background:url("pics/blackback");
+    background-size:cover;
+    font-family: 'PT Serif', serif;
+}
+.first{
+    color:gray;
+    font-family: 'PT Serif', serif;
+}
+.pic{
+  
+    padding: 10% 5% 5% 5%;
+ text-align:center;
+}
+.button{
+    font-family: 'PT Serif', serif;
+    text-align:center;
+}
+.projects{
+    text-align:center;
+    color:white;
+}
+.jumbotronthree{
+    background:black;
+    color:white;
+}
+.jumbotronone{
+background:url("pics/pingpong.jpeg");
+background:cover;
+color:white;
+}
+.jumbotrontwo{
+    background:greenyellow;
+    color:white;
+}

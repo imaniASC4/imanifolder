@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+body{
+background:black;
+    background-size:cover;
+    text-align:center;
+    font-family: 'PT Serif', serif;
+}
+.projects{
+    
+    
+    color:white;
+}
+.jumbotronthree{
+    background:url("pics/lightningstar.gif");
+    color:white;
+    background:cover;
+    margin:auto;
+    text-align:center;
+}
+.jumbotronone{
+background:url("pics/sexyspace.jpg");
+background-size:cover;
+color:white;
+margin:auto;
+}
+.jumbotrontwo{
+    background:url("pics/spacegif.gif");
+    color:white;
+    background:cover;
+    margin:auto;
+}

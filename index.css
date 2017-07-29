@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Serif');
 body{
-    background:url("pics/blackback");
+    background:url("pics/stars3.jpg");
     background-size:cover;
     font-family: 'PT Serif', serif;
 }
@@ -17,20 +17,6 @@ body{
     font-family: 'PT Serif', serif;
     text-align:center;
 }
-.projects{
-    text-align:center;
-    color:white;
-}
-.jumbotronthree{
-    background:black;
-    color:white;
-}
-.jumbotronone{
-background:url("pics/pingpong.jpeg");
-background:cover;
-color:white;
-}
-.jumbotrontwo{
-    background:greenyellow;
-    color:white;
+.linkedin{
+    max-width:100px;
 }
